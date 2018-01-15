@@ -2,9 +2,9 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://zhipsoft.github.io/
+url: https://zhipsoft.github.io
 date_format: "ordinal"
-title: 码志
+title: 1024Java
 subtitle: "打码改变人生"
 description: "马壮的个人博客"
 keywords: 码志, Zhuang Ma, mzlogin, mazhuang
