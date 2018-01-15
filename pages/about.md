@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
+description: ZhipSoft
 keywords: ZhipSoft, 志鹏软件
 comments: true
 menu: 关于
