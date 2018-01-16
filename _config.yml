@@ -5,8 +5,8 @@ baseurl:
 url: https://zhipsoft.github.io
 date_format: "ordinal"
 title: 1024Java
-subtitle: "ZhipSoft.com"
-description: "ZhipSoft.com"
+subtitle: "1024Java.ZhipSoft.com"
+description: "1024Java.ZhipSoft.com"
 keywords: 1024Java, ZhipSoft, 志鹏, 志鹏软件
 timezone: Asia/Shanghai
 encoding: "utf-8"
@@ -15,9 +15,9 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author:ZhipSoft
-organization: ZhipSoft.com
-organization_url: http://www.zhipsoft.com
+author:1024Java.ZhipSoft
+organization: 1024Java.ZhipSoft.com
+organization_url: http://1024Java.zhipsoft.com
 github_username: ZhipSoft
 location: Xi'an, China
 email: zhipsoft@163.com
