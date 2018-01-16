@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://zhipsoft.github.io
+url: http://1024Java.zhipsoft.com
 date_format: "ordinal"
 title: 1024Java
 subtitle: "1024Java.ZhipSoft.com"
