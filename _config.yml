@@ -94,14 +94,14 @@ gitment:
     owner: zhipsoft
     repo: blog-comments
     oauth:
-        client_id: d2e1cbbd298958076462
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+        client_id: de695a3eb72653833c20
+        client_secret: d2bd726f12cc065df57d1c97ed6ce24bfbda32be
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: zhipsoft
     repo: blog-comments
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+    clientID: de695a3eb72653833c20
+    clientSecret: d2bd726f12cc065df57d1c97ed6ce24bfbda32be
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
